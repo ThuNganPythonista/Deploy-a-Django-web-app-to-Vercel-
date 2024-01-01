@@ -22,4 +22,26 @@ Using the command `pip freeze > requirements.txt` in your terminal to install re
 ![image](https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-/blob/main/Screenshot%202024-01-01%20at%202.15.30%20PM.png)
 
 ![image](https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-/blob/main/Screenshot%202024-01-01%20at%202.15.59%20PM.png)
+
+Here, this is the code for vercel.json :
+
+```python
+{
+    "builds": [{
+        "src": "djangLofi/wsgi.py",
+        "use": "@vercel/python",
+        "config": { "maxLambdaSize": "15mb", "runtime": "python3.9" }
+    }],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "djangLofi/wsgi.py"
+        }
+    ]
+}
+
+```
+
+**Take note:** You change the name of project correct with your own project
+
   
