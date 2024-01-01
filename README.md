@@ -56,6 +56,15 @@ State this line of code in `wsgi.py` file
 
 My project has an existing repository, so I gonna commit and push again.
 
+![image](https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-/blob/main/Screenshot%202024-01-01%20at%202.42.55%20PM.png)
+
+**6) Import your repository to Vercel:**
+
+Access to vercel.com and sign up your Github account :
+
+
+
+
 
 
 
