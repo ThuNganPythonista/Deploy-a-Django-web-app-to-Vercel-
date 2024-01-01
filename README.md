@@ -19,4 +19,5 @@ Using the command `pip freeze > requirements.txt` in your terminal to install re
 
 + Create a file json under the big project folder
 
+![image](https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-/blob/main/Screenshot%202024-01-01%20at%202.15.30%20PM.png)
   
