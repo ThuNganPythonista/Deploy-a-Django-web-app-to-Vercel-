@@ -66,4 +66,9 @@ Access to vercel.com and sign up your Github account :
 ![image](https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-/blob/main/Screenshot%202024-01-01%20at%202.46.10%20PM.png)
 
 
+We go ahead to config it, and then we will click the button `Deploy`
+
+![image](https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-/blob/main/Screenshot%202024-01-01%20at%202.50.21%20PM.png)
+
+
 
