@@ -13,3 +13,10 @@
 
 Using the command `pip freeze > requirements.txt` in your terminal to install requirements.txt file
 
+![image](https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-/blob/main/Screenshot%202024-01-01%20at%202.12.08%20PM.png)
+
+**3) Vercel Json File:**
+
++ Create a file json under the big project folder
+
+  
