@@ -63,8 +63,7 @@ My project has an existing repository, so I gonna commit and push again.
 Access to vercel.com and sign up your Github account :
 
 
-
-
+![image](https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-/blob/main/Screenshot%202024-01-01%20at%202.46.10%20PM.png)
 
 
 
