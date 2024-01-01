@@ -28,14 +28,14 @@ Here, this is the code for vercel.json :
 ```python
 {
     "builds": [{
-        "src": "djangLofi/wsgi.py",
+        "src": " djangLofi/wsgi.py",
         "use": "@vercel/python",
         "config": { "maxLambdaSize": "15mb", "runtime": "python3.9" }
     }],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "djangLofi/wsgi.py"
+            "dest": " djangLofi/wsgi.py"
         }
     ]
 }
