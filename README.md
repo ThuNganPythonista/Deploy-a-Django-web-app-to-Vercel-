@@ -2,7 +2,8 @@
 
 **1) Settings.py :**
 
-`ALLOWED_HOSTS`=['.vercel.app']
+`ALLOWED_HOSTS=['.vercel.app']`
+
 =>I do not want to allow all hosts, so I just allow `vercel`
 
 
