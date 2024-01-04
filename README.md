@@ -68,6 +68,18 @@ Access to vercel.com and sign up your Github account :
 
 We go ahead to config it, and then we will click the button `Deploy`
 
+**7) Config Database**
+Vercel is designed suitable for JS or .NET.
+
+If you use Django, you need to config in your settings and database so much.
+
+In my case, I use DataGrip to manage database, so I link my db on DataGrip with MySQL
+
+[Link MySQL](https://railway.app/project/ffd53e0c-c3e9-4fcd-bd82-d7b121d24640/service/acf89e27-ac31-4bfc-a060-95877b1e308d/variables)
+
+In settings.py, you change your db following this server
+
+**RESULT OUT !!!**
 ![image](https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-/blob/main/Screenshot%202024-01-01%20at%202.50.21%20PM.png)
 
 Tadaaaaa =))))))
