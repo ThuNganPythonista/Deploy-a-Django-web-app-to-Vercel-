@@ -70,5 +70,7 @@ We go ahead to config it, and then we will click the button `Deploy`
 
 ![image](https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-/blob/main/Screenshot%202024-01-01%20at%202.50.21%20PM.png)
 
+Tadaaaaa =))))))
 
+![image](https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-/blob/main/Screenshot%202024-01-04%20at%203.27.07%20PM.png)
 
