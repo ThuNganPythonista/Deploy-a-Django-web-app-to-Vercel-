@@ -87,8 +87,6 @@ We go ahead to config it, and then we will click the button `Deploy`
 
 **7) Config Database**
 
-Vercel is designed suitable for JS or .NET.
-
 If you use Django, you need to config in your settings and database so much.
 
 In my case, I use DataGrip to manage database, so I link my db on DataGrip with MySQL
@@ -97,7 +95,29 @@ In my case, I use DataGrip to manage database, so I link my db on DataGrip with 
 
 In settings.py, you change your db following this server
 
-In my own case, 
+With my own case, there are some steps :
+
+    + Step 1 : Login MySQL with Github 
+
+![Image](https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-/blob/main/Screenshot%202024-01-05%20at%206.34.32%20PM.png)
+
+Config your database in your local settings correct with MySQL | Railway 
+
+```python
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'railway',
+        'USER': 'root',
+
+        'PASSWORD': 'xxxxx',
+
+        'HOST': 'xxxx',
+        'PORT': 'xxx'
+    }
+}
+
+```
 
 
 **RESULT OUT !!!**
